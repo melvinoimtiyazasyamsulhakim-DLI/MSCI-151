@@ -1,0 +1,10 @@
+Scenario,SolverStatus,WeeklyCostIDR
+Baseline,Optimal,12800000
+Close@19,Optimal,12600000
+PTmin16,Optimal,13200000
+Fairness,Optimal,13000000
+Skills_Infeasible,Infeasible,13600000
+Skills_Relaxed,Infeasible,14400000
+Wage+10%,Optimal,14080000
+Wage-10%,Optimal,11520000
+Donna_unavailable_d3,Optimal,12800000
